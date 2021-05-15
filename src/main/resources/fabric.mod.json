@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fake-floader",
-  "version": "1.0",
+  "version": "${version}",
   "name": "Fake Fabric Loader",
   "description": "why are mods so evil",
   "authors": [
