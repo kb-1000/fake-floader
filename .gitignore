@@ -1,0 +1,51 @@
+# gradle
+
+.gradle/
+build/
+out/
+classes/
+*.class
+*.jar
+*.zip
+*.tar.gz
+*.rar
+!/gradle/wrapper/gradle-wrapper.jar
+
+# eclipse
+
+*.launch
+
+# idea
+
+.idea/*
+!.idea/codeStyles
+*.iml
+*.ipr
+*.iws
+
+# vscode
+
+.settings/
+.vscode/
+bin/
+.classpath
+.project
+
+# fabric
+
+run/
+hs_err_pid*
+
+# other
+
+*.sw[op]
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[tT]humbs.db
+*.sw[po]
+.directory
+*~

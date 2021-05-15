@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "fake-floader",
+  "version": "1.0",
+  "name": "Fake Fabric Loader",
+  "description": "why are mods so evil",
+  "authors": [
+    "kb1000"
+  ],
+  "contact": {
+    "homepage": "https://kb1000.de",
+    "sources": "https://github.com/kb-1000/fake-floader"
+  },
+  "license": "CC0",
+  "environment": "*",
+  "depends": {
+    "quilt_loader": "*"
+  },
+  "entrypoints": {
+  },
+  "icon": "assets/fake-floader/icon.png"
+}
